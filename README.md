@@ -1,9 +1,6 @@
 # Articles
 
 
-The Topics Need to Study
-----------------------------------------------------------
-
 	•	Software architecture
 https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101
 
